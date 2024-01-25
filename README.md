@@ -1,7 +1,7 @@
 # Math website (Angular)
 
 ## Try the page
-<a href="https://akinlawrence.github.io/matikka-sivusto/index.html">Link to the website</a>
+<a href="https://akinlawrence.github.io/math-website/index.html">Link to the website</a>
 
 ## About the project
 The exam includes array, multiplication, divisions, comparison solving problems, and plus and minus calculations. To start the exam, press the "Perform an automatically generated training test" button, the timer will start and you will be able to complete the tasks. You will get to see the right answers after the exam, which will allow you to learn from your mistakes. Also you can practice each sections indivially by scrolling down in the page. There are two languages which can be selected from the top of the page if you want english or finnish!
